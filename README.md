@@ -13,7 +13,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/pong-game.git
+git clone https://github.com/yuktabande/The-Pong-Game.git
 cd pong-game
 ```
 
@@ -28,11 +28,11 @@ No external dependencies are required. The game runs with the built-in Turtle mo
 ## Running the Game
 Run the following command in your terminal or command prompt:
 ```sh
-python pong.py
+python main.py
 ```
 
 ## Customization
-You can modify the game by tweaking the `pong.py` file:
+You can modify the game by tweaking the `main.py` file:
 - Change paddle and ball speed
 - Adjust screen size and background color
 - Modify scoring system
